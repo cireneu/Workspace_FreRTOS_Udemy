@@ -1,2 +1,2 @@
-# Workspace_FreRTOS_Udemy
+# Workspace_FreeRTOS_Udemy
 Repository for programming tests for learn.
